@@ -1,0 +1,56 @@
+.container {
+  width: 50%;
+  /* You can change the width as needed */
+  height: 300px;
+  /* You can change the height as needed */
+  margin: 0 auto;
+  /* This centers the container horizontally */
+  padding: 10px;
+  background-image: url(https://www.creativefabrica.com/wp-content/uploads/2023/02/18/Abstract-pastel-color-background-design-Graphics-61598166-1-580x387.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+
+.cards {
+  margin: 10px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLYvnPhzVZQN3an_qD-7V10xPR2Bi-uzQPw&usqp=CAU);
+  background-size: cover;
+}
+
+.sum {
+  margin: 10px;
+}
+
+.content {
+  margin: 10px;
+}
+
+.play {
+  margin: 10px;
+}
+
+h1 {
+  color: black;
+  font-style: initial;
+  font-weight: 900;
+}
+
+.c {
+  font-style: italic;
+  font-weight: 500;
+  color: black;
+  font-style: initial;
+}
+
+#player-el{
+  margin-top: 10px;
+}
